@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+.indivContactPage name{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: left;
+  align-self: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: larger;
+  font-family: 'Merriweather', serif;;
+}
+
+.indivContactPage h1{
+    font-size:400%;
+}
+
+.indivContactPage h2{
+    font-size:300%;
+}
+
+.indivContactPage detail{
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  
+  opacity: 0.8;
+  background: #b7eee0;
+}
