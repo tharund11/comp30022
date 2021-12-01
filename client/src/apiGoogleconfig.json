@@ -1,8 +1,0 @@
-{
-    "CLIENT_ID": "578719039791-ecm5vutpiluc2m7tkpjf4mackvjfje5o.apps.googleusercontent.com",
-    "API_KEY": "AIzaSyDgYF2SH1DxYmMx7vcfkSnFdrgk15L7LLE",
-    "SCOPES": "https://www.googleapis.com/auth/calendar.events https://www.googleapis.com/auth/calendar.calendarlist.readonly",
-    "DISCOVERY_DOCS": [
-      "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"
-    ]
-  }
